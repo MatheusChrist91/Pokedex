@@ -1,3 +1,5 @@
+link do deploy - https://pokedex-git-projeto-finalizado-matheuschrist91.vercel.app/
+
 Pokedex - Explore o Mundo dos Pokémon
 
 Visão Geral:
